@@ -3,3 +3,4 @@
 libSOIL.a
 libSOIL.dylib
 *.o
+build/
